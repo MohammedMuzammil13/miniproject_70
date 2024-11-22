@@ -30,8 +30,6 @@ Output 1:
 Output 2: 
 ![output2](https://github.com/user-attachments/assets/7c7bb0c4-3e6d-4d94-b559-205ee9846fdd)
 
-
-Detection Accuracy: Achieved over 95% accuracy during testing on diverse datasets.
 # Results and Impact
 This project enhances diagnostic accuracy, streamlines medical imaging analysis, and reduces the time required for disease detection. The system’s ability to classify and segment images with high precision showcases its potential to support healthcare professionals in critical decision-making.
 
