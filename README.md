@@ -24,8 +24,12 @@ Model Training: Using a hybrid CNN for classification and segmentation tasks.
 Performance Evaluation: Employing metrics like accuracy, recall, precision, and F1-score to assess model reliability.
 Deployment: Integration into a user-friendly interface for real-world clinical applications.
 # Outputs
-Output 1: Accurate classification of X-ray, MRI, and CT images into normal or abnormal categories.
-Output 2: Segmentation maps highlighting areas of interest, such as tumors or anomalies.
+Output 1: 
+![test accuracy output](https://github.com/user-attachments/assets/801ff26a-4c18-4f75-a816-26e8d84e1db6)
+
+Output 2: 
+![output2](https://github.com/user-attachments/assets/7c7bb0c4-3e6d-4d94-b559-205ee9846fdd)
+
 
 Detection Accuracy: Achieved over 95% accuracy during testing on diverse datasets.
 # Results and Impact
